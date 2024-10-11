@@ -1,7 +1,7 @@
 package com.example.el
 
 fun ContohList(){
-    println("=== List ===")
+    println("=== List ===") //
     val readOnlyAbjad = listOf("A", "B", "C")
     println(readOnlyAbjad)
 
